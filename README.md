@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anubhav Sharma</h1>
 <h3 align="center">A passionate  developer from India</h3>
 
-<p align="left"> <img src="" alt="anubhavsh40" /> </p>
+
 
 - 📫 How to reach me **sh.anubhav40@gmail.com**
 
